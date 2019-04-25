@@ -1,7 +1,4 @@
-div{
-  height: 200px;
-  width: 100%;
-}
+
 body{
   margin: 0;
 }
@@ -11,23 +8,14 @@ h1{
 }
 
 .top-container{
-  background-color: white;
-  color: red;
-  border-style: solid;
-  border-color: red;
-  border-right: 0;
-  border-left: 0;
-  border-top: 0;
-
+  background-color: #E4F9F5;
 }
 
 .bottom-container{
   background-color: white;
   color: red;
-  border-style: solid;
-  border-color: red;
-  border-right: 0;
-  border-left: 0;
+  height: 200px;
+  width: 200px;
 
 
 }
@@ -35,8 +23,7 @@ h1{
 .middle-container{
   background-color: red;
   color: white;
-  border-style: solid;
-  border-color: white;
-  border-right: 0;
-  border-left: 0;
+  height: 200px;
+  width: 200px;
+
 }
